@@ -1,3 +1,4 @@
+```bash
 mkdir /tmp/svnproject
 cd /tmp/svnproject
 /tmp/svnproject$ svnadmin create sample
